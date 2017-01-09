@@ -15,7 +15,7 @@ To create a page you can use the following command:
 
 ```bash
 # ionic g page <PageName>
-ionic g page myPage
+ionic g page MyPage
 
 √ Create app/pages/my-page/my-page.html
 √ Create app/pages/my-page/my-page.ts
